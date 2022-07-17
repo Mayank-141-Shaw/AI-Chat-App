@@ -1,0 +1,27 @@
+
+# py-app
+/intent-py-app/chatbot
+
+# chatbot
+
+# dependencies
+/chatbot/node_modules
+/chatbot/.pnp
+/chatbot/.pnp.js
+
+# testing
+/chatbot/coverage
+
+# production
+/chatbot/build
+
+# misc
+/chatbot/.DS_Store
+/chatbot/.env.local
+/chatbot/.env.development.local
+/chatbot/.env.test.local
+/chatbot/.env.production.local
+
+/chatbot/npm-debug.log*
+/chatbot/yarn-debug.log*
+/chatbot/yarn-error.log*

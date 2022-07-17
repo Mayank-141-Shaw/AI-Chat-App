@@ -1,0 +1,2 @@
+model_checkpoint_path: "e:\\Chat Bot\\intent-py-app\\src\\chatbot_model"
+all_model_checkpoint_paths: "e:\\Chat Bot\\intent-py-app\\src\\chatbot_model"
